@@ -1,5 +1,6 @@
 #' This code is to perform the power simulation for CRF project.
 #' Three ML methods were utitlized, including glm, RF, XGBoost
+#' Follow NHB paper
 #' 
 #' @author Shi Yujia
 #' @date 2024.11.07

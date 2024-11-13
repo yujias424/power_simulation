@@ -1,5 +1,6 @@
 #' This code is to perform the power simulation for CRF project.
-#' Here, we test the most naive tau function, defined as 0.42 + 0.28 * X2 + 0.3 * X1
+#' Here, we test the several different tau functions from Powers et al., all functions
+#' were modified to make the ATE located aroung 0.57.
 #' 
 #' @author Shi Yujia
 #' @date 2024.11.07
